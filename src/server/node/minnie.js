@@ -8,5 +8,5 @@ const server = new SMTPServer({
     }
 });
 
-server.listen(2525);
+server.listen(25);
 console.log('should be listening on 25');
